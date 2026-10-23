@@ -1,0 +1,7 @@
+name: astrbot_plugin_private_final_reply
+display_name: 私聊文字单次分段发送
+author: norakoishi-png
+version: v1.1.0
+desc: 对配置的私聊暂存纯文字发送工具调用，由最终回复统一投递，减少重复发送。
+repo: https://github.com/norakoishi-png/astrbot_plugin_private_final_reply
+astrbot_version: ">=4.29.1,<5"

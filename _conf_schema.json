@@ -1,0 +1,13 @@
+{
+  "enabled": {
+    "type": "bool",
+    "description": "启用纯文字发送保护",
+    "default": true
+  },
+  "sessions": {
+    "type": "list",
+    "description": "启用的私聊会话 UMO 列表",
+    "default": [],
+    "hint": "使用 /sid 获取完整会话标识，逐条加入。留空不影响任何会话；仅 FriendMessage 私聊生效。"
+  }
+}
